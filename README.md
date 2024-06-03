@@ -2,7 +2,7 @@
 
 ## Step 1: Clone the Repository
 
-git clone <repository-url>
+git clone <https://github.com/tsaichris/AI-CUP-2024-TEAM_5686.git>
 
 ## Step 2: Set Up the Necessary Environment
 conda create --name test python=3.8
