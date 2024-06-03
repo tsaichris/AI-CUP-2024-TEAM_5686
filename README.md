@@ -26,3 +26,7 @@ link:
 Run test_4c.py to generate the test results.
 
 Note: Remember to change the path name in the script.
+
+## Test environment in colab:
+link:
+Note: package list can be referred from "environment_colab.yaml"
