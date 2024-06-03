@@ -23,11 +23,11 @@ Note: Remember to change the path name in the script.
 ## Step 5: Download Trained Weights and Generate Test Results
 link:
 
-
 Run test_4c.py to generate the test results.
 
 Note: Remember to change the path name in the script.
 
 ## Test environment in colab:
-link:
+link:https://colab.research.google.com/drive/1j4ipN-O4W-QLbTjdck-IwzJvk436mFTP?usp=sharing
+
 Note: package list can be referred from "environment_colab.yaml"
