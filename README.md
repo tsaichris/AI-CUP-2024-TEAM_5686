@@ -2,7 +2,6 @@
 
 ## Step 1: Clone the Repository
 
-```bash
 git clone <repository-url>
 
 ## Step 2: Set Up the Necessary Environment
