@@ -21,7 +21,7 @@ Run main_train.py to train the model.
 Note: Remember to change the path name in the script.
 
 ## Step 5: Download Trained Weights and Generate Test Results
-link:
+link:https://drive.google.com/file/d/1khDYeYbQqhQoUOO4i32kvuL6tSyzgrrp/view?usp=sharing
 
 Run test_4c.py to generate the test results.
 
