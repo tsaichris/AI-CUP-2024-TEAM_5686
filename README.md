@@ -7,6 +7,8 @@ git clone <https://github.com/tsaichris/AI-CUP-2024-TEAM_5686.git>
 ## Step 2: Set Up the Necessary Environment
 conda create --name test python=3.8
 
+conda activate test
+
 pip install -r environment.yml
 
 ## Step 3: Convert Ground Truth Dataset from .PNG to .JPG
